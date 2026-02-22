@@ -15,7 +15,6 @@
 
 ## Github Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/kylechen357)
 
 
 <!--
