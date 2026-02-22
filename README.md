@@ -1,6 +1,7 @@
 ## Welcome to Kyle's Github codeplace.
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/eb7eedbb-cdaf-4d88-a4c7-318e5c794369" /> Sheng-Kai Chen、陳嵊凱、เฉิน เซิงไค、진승개
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/eb7eedbb-cdaf-4d88-a4c7-318e5c794369" /> Sheng-Kai Chen, 陳嵊凱, เฉิน เซิงไค, 진승개
 
+> Research focus on Deep Learning and Robotics, and now also digging in IC Design.
 
 <!--
 **kylechen357/kylechen357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
