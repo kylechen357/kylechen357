@@ -15,7 +15,7 @@
 
 ## Github Activity
 
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/kylechen357)
 
 <!--
 **kylechen357/kylechen357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
