@@ -1,5 +1,6 @@
-## Hello, I am Kyle.
-Also named as Sheng-Kai Chen.
+## Welcome to Kyle's Github codeplace.
+Name: Sheng-Kai Chen、陳嵊凱、เฉิน เซิงไค、진승개
+
 
 <!--
 **kylechen357/kylechen357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
