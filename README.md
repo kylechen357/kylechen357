@@ -1,5 +1,5 @@
 ## Welcome to Kyle's Github codeplace.
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eb7eedbb-cdaf-4d88-a4c7-318e5c794369" /> My Name: Sheng-Kai Chen、陳嵊凱、เฉิน เซิงไค、진승개
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/eb7eedbb-cdaf-4d88-a4c7-318e5c794369" /> My Name: Sheng-Kai Chen、陳嵊凱、เฉิน เซิงไค、진승개
 
 
 <!--
